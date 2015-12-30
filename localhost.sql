@@ -1,7 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 2.11.6
 -- http://www.phpmyadmin.net
---
+--this is the test
 -- Host: localhost
 -- Generation Time: Feb 11, 2014 at 09:50 AM
 -- Server version: 5.0.51
